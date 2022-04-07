@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DataStructures"/>
+	<classpathentry kind="lib" path="lib/jaudiotagger-2.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/cirlcle.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/tika-app-1.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
